@@ -1,5 +1,5 @@
 # Projeto_2 - Pagina de Venda de Imovéis
-esquisa Avançada: Permite aos usuários filtrar a pesquisa de imóveis por localização, tipo de propriedade, faixa de preço, número de quartos, entre outros critérios relevantes.
+Pesquisa Avançada: Permite aos usuários filtrar a pesquisa de imóveis por localização, tipo de propriedade, faixa de preço, número de quartos, entre outros critérios relevantes.
 Listagens de Imóveis: Apresenta listagens detalhadas de imóveis disponíveis, com informações como fotos, descrição, preço, tamanho da propriedade, comodidades e detalhes do contato do corretor.
 Visualização de Imagens: Permite que os usuários visualizem galerias de fotos de alta qualidade de cada propriedade, possibilitando uma visão mais detalhada do imóvel.
 Mapa Interativo: Apresenta um mapa interativo para que os usuários possam visualizar a localização dos imóveis, facilitando a escolha com base em preferências geográficas.
